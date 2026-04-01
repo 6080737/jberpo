@@ -1,0 +1,18 @@
+Package: susupojie.com
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: someone
+Installed-Size: 204
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: debs/苏苏破解AutoTocuh-Rootless_1.0_iphoneos-arm64.deb
+Size: 19648
+MD5sum: 8baa53cddeed18daa7a6c548baa67b92
+SHA1: 820bb631c5a231798c8e03b200fcd41c134e60e5
+SHA256: 88304e30eddeef8ddee34c610dea8b68d6bc85694899fa3c5208a99d59de1323
+Section: 苏
+Description: 苏苏破解版补丁AutoTocuh·支持16.5系统
+Author: SuSu
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 苏苏破解AutoTocuh-Rootless
+Sponsor: 苏苏
+
