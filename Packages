@@ -31,3 +31,41 @@ Description: Teleport 简体中文�
 Author: Mr.Zhang <mr_zhang_00@163.com>
 Name: Teleport 简体中文�
 
+Package: com.teleports.location
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Super TrollStore
+Depends: mobilesubstrate
+Conflicts: xyz.cypwn.teleport
+Filename: debs/Teleport 虚拟定位_1.1_iphoneos-arm64(1).deb
+Size: 7382748
+MD5sum: b75f66626d14bc7d8d82421fdddb80e7
+SHA1: bda66b9f4eb6043c9754e8393a24aa3f96a622f6
+SHA256: 33c76d9265df5f0bc58a7eece3d96d4dc014b81e266188d6881bc35f9f117b22
+Section: Bootstrap
+Description: 免费虚拟定位
+ * Spoof GPS location
+ * 支持 Bootstrap
+Author: SGWC
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/teleport.png
+Name: Teleport 虚拟定位
+Sileodepiction: https://TrollStoreX.Github.io/sileodepiction/Teleport/js.json
+
+Package: susupojie.com
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: someone
+Installed-Size: 204
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: debs/测试.deb
+Size: 19648
+MD5sum: 8baa53cddeed18daa7a6c548baa67b92
+SHA1: 820bb631c5a231798c8e03b200fcd41c134e60e5
+SHA256: 88304e30eddeef8ddee34c610dea8b68d6bc85694899fa3c5208a99d59de1323
+Section: 苏
+Description: 苏苏破解版补丁AutoTocuh·支持16.5系统
+Author: SuSu
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 苏苏破解AutoTocuh-Rootless
+Sponsor: 苏苏
+
