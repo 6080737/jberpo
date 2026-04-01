@@ -1,8 +1,8 @@
-Origin: https://github.com/6080737/repo
-Label: 苏 and 苏
+Origin: 苏苏·Repo
+Label: 苏苏·Repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64
 Components: main
-Description: 苏苏的越狱插件源
+Description: 苏苏个人备份插件Repo
