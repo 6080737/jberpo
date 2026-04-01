@@ -9,7 +9,7 @@ Size: 10357876
 MD5sum: 3d6cb17298ff79e17c7c960ab4b9534a
 SHA1: ce7008f6a66b836ab569c412d1b142ad78342677
 SHA256: c1a6c0321048d7b88607b64a776dead9a144b31296aa59ce93a4c3ef98ee5bd6
-Section: 杂七杂八
+Section: 苏苏
 Description: An awesome CarPlay tweak.一款Carplay拓展插件，可以改壁纸，让不是全屏显示的软件变成全屏，配合carbrige插件使用，改图标个数比例，有汽车的人会用的到，原价4美元，现在搬运工源免费使用！我没车，无法测试插件是否有效，小组件好像不行！大家可以下载体验一下这个功能菜单，有经济能力的购买正版，支持作者！搬运工源，你最好的家，越狱好帮手！感谢搬运工源群友小伙子分享此插件！爱你爱你爱你！
 Author: Dcsyhi
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -28,7 +28,7 @@ Size: 434624
 MD5sum: 50cbb55310368ceeaad98d7657ce6a9e
 SHA1: 75182f2a5083933a34ac4ab697107df7a3cd4d21
 SHA256: a53ae036156e5b9e6839431d54ae3e837e732b167bf175aceea9e5d26187cd73
-Section: 系统增强
+Section: 苏苏
 Description: Open any app in CarPlay!此版为破解版，让不支持互联的软件显示在车机上！仅供群友尝鮮，正版9.9美元，好像是有点贵，但是有能力的请支持正版！使用中有问题可以加群反馈，等待更新，也可直接入手正版哈，搬运工源只为免费搬运！旧版本在搬运工群文件里，新版本有问题的话，请手动降级回旧版本！不支持半越狱！
 Author: leftyfl1p
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -45,7 +45,7 @@ Size: 49596
 MD5sum: 5931287104faf0b1a9a2edde8c2377c7
 SHA1: 5dfbfb9fb51504c85e5e9511940a2d9a58806fba
 SHA256: de8c89012e5f2d00d72a6dcdd3cd4da75549246cec88f2d09bb6010238cfe930
-Section: 系统增强
+Section: 苏苏
 Description: Modifications based on the original version, Fix multitasking support on iOS/iPadOS 16+.一款老牌分屏插件，搬运工源群友念整合修复分享，插件没什么特别的功能，就是简单能够分屏，小编已测试可用！长按APP图标，然后选择MilkyWay2分屏即可！搬运工源感谢每一个为越狱做出奉献的小伙们！
 Author: akusio
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -63,7 +63,7 @@ Size: 7544
 MD5sum: 8fd5afdada371f1456f4431a1bc852fe
 SHA1: 7721b7e3ec9498054418ed6dcafdc235bde38452
 SHA256: d1e5a66853b646f2fd155a376595fbced11de0ba8e815691da508cf2a1927882
-Section: Tweaks
+Section: 苏苏
 Description: Teleport 简体中文�
 Author: Mr.Zhang <mr_zhang_00@163.com>
 Name: Teleport 简体中文�
@@ -79,7 +79,7 @@ Size: 7382748
 MD5sum: b75f66626d14bc7d8d82421fdddb80e7
 SHA1: bda66b9f4eb6043c9754e8393a24aa3f96a622f6
 SHA256: 33c76d9265df5f0bc58a7eece3d96d4dc014b81e266188d6881bc35f9f117b22
-Section: Bootstrap
+Section: 苏苏
 Description: 免费虚拟定位
  * Spoof GPS location
  * 支持 Bootstrap
